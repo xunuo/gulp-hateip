@@ -1,6 +1,10 @@
 # gulp-hateip
 
-gulp-hateip is a plugin to [hateip](https://github.com/xunuo/hateip) :)
+gulp-hateip is a plugin to [hateip](https://www.npmjs.com/package/hateip) :)
+
+HateIP is a DDNS serve for who hate enter ip everytime.
+
+Auto get your Local/Public IP address and association with the domain : {name}.hateip.com
 
 ## Install
 
