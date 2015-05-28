@@ -1,0 +1,17 @@
+{
+  "name": "gulp-hateip",
+  "version": "1.0.1",
+  "author": "xunuo <i@xunuo.com>",
+  "description": "A gulp plugin for hateip",
+  "keywords": [
+    "ddns",
+    "hateip"
+  ],
+  "repository": "xunuo/gulp-hateip",
+  "dependencies" : {
+    "gulp-util": "3.0.1",
+    "hateip" : "~1.0.2"
+  },
+  "analyze": true,
+  "license": "MIT"
+}
